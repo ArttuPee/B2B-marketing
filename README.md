@@ -31,7 +31,7 @@ Markkinointiin liittyy useita eri asioita. Näitä on esimerkiksi:
 * Koko markkinoiden laajuinen viestintä/mainonta tehokkaampaa B2C puolella
 
 
-![Screenshot 2020-10-04 at 21.49.26.png](:/d7ee3c008f464115bae6f998e6e7b160)
+![1](/B2B-marketing/B2B screenshots/1.png)
 
 
 **B2B markkinoinnin keskeisimmät stepit**
