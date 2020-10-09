@@ -31,7 +31,7 @@ Markkinointiin liittyy useita eri asioita. Näitä on esimerkiksi:
 * Koko markkinoiden laajuinen viestintä/mainonta tehokkaampaa B2C puolella
 
 
-![1](/B2B-marketing/B2B screenshots/1.png)
+![1](https://github.com/ArttuPee/B2B-marketing/blob/main/B2B%20screenshots/1.png)
 
 
 **B2B markkinoinnin keskeisimmät stepit**
@@ -108,7 +108,7 @@ Mitä tehdään paremmin kuin muut tai ainakin yhtä hyvin kuin paras.
 **Markkinointistrategia ja yleinen strategia ovat monessa yrityksessä erottamattomia**
 
 
-![Screenshot 2020-10-05 at 10.59.45.png](:/b9cf3a553cdf428db9a17c51918fd39d)
+![2](https://github.com/ArttuPee/B2B-marketing/blob/main/B2B%20screenshots/2.png)
 
 
 # 2.2 Markkinoiden valinta
@@ -129,7 +129,7 @@ B2B puolella on myös sellaisia strategisia valintoja mitä ei tule vastaan B2C 
 ## Sopivuuden kysymys
 B2B puolella tuotteet yleensä pitää räätälöidä asiakkaalle. Yritys voi toimittaa ydintuotetta ja tarjota siihen päälle optioita. Joskus yrityksen ei kannata itse toimittaa näitä optioita vaan ne voidaan toimittaa yhteistyökumppanin kautta. 
 
-![Screenshot 2020-10-05 at 11.15.31.png](:/d5bca7c616a64cb39b76c48ea1af1a41)
+![3](https://github.com/ArttuPee/B2B-marketing/blob/main/B2B%20screenshots/3.png)
 
 **Markkinoihin liittyviä tekijöitä - Market fit**
 * Mitä uusia markkina mahdollisuuksia on olemassa?
@@ -151,7 +151,7 @@ B2B puolella tuotteet yleensä pitää räätälöidä asiakkaalle. Yritys voi t
 * Mitä hyötyjä yritys tarjoaa parhaiten verrattuna kilpailijoihin
 
 
-![Screenshot 2020-10-05 at 13.35.20.png](:/95cf3362769c44a391b7480514e0cee6)
+![4](https://github.com/ArttuPee/B2B-marketing/blob/main/B2B%20screenshots/4.png)
 
 # 2.3 Ostajan tunteminen
 
@@ -163,7 +163,7 @@ Henkilöt, jotka liittyvät ostoprosessiin muodostavat OBC:n (Organizational Buy
 
 Kaikilla edellä mainituilla funktioilla on omat prioriteettinsä ja kiinnostuksensa. 
 
-![Screenshot 2020-10-05 at 13.47.42.png](:/de479fb214a54d5ebc8bb2c0eecf8425)
+![5](https://github.com/ArttuPee/B2B-marketing/blob/main/B2B%20screenshots/1.png)
 
 OBC:hen liittyy kaksi keskeistä ulottuvuutta: rakenne ja osallistuminen.
 
@@ -208,7 +208,7 @@ Organisaation ostoprosessissa on paljon yhtäläisyyksiä yksityisen henkilön o
 3. Tarjouspyyntö (Request for proposal)
 4. Hankinnan jälkeinen arviointi (Post-purchase evaluation)
 
-![Screenshot 2020-10-05 at 14.28.24.png](:/9cf1539bf5814814beb73fb9f74f3b14)
+![6](https://github.com/ArttuPee/B2B-marketing/blob/main/B2B%20screenshots/6.png)
 
 #### 1. Tarpeen ja hyötyjen tunnistaminen
 Yleensä tässä vaiheessa joku organisaatiosta huomaa jonkin ongelman joka voitaisiin ratkaista ostolla. Tärkeä selvittää voidaanko tehdä talon sisällä ja mitä se vaatisi. Mikäli kyseessä täysin uusi ostos, niin tietoa saadaan yleensä parhaiten tutkimalla mahdollisten toimittajien valikoimaa.
@@ -263,7 +263,7 @@ Hyötyjä voidaan luokitella neljään kategoriaan:
 2. Saadakseen asiakkaita luo kilpailukykyistä yhdenvertaisuutta taloudellisten aineellisten hyötyjen osalta. Tarjoomien erotteluun käytä hyväksesi muita kuin taloudellisia aineellisia hyötyjä. 
 3. Rakenne ja vahvista pitkä aikaisia asiakassuhteita siirtämällä asiakas painopisteen taloudellisista ja muista kuin taloudellisista aineellisista hyödyistä kohti muihin kuin taloudellisiin aineettomiin hyötyihin. 
 
-![Screenshot 2020-10-05 at 19.51.57.png](:/341a511ca4eb434a83490ae71e382c68)
+![7](https://github.com/ArttuPee/B2B-marketing/blob/main/B2B%20screenshots/7.png)
 
 ### Hyötyjen linkittäminen oikeille OBC:n henkilöille
 
@@ -288,7 +288,7 @@ Arvolupaus on avainasemassa hyötyjen viestimisessä asiakkaalle, koska se kitey
 
 Toisin sanoen arvolupaus artikuloi hyötypinon asiakkaalle. Houkutteleva arvolupaus ei ainoastaan auta saavuttamaan ensimmäistä myyntiä vaan se helpottaa toimittajaa kehittämään toimintaansa/tarjoamaansa ajan kuluessa. 
 
-![Screenshot 2020-10-05 at 20.53.25.png](:/13a920d22da043939a048e653ab2afe7)
+![8](https://github.com/ArttuPee/B2B-marketing/blob/main/B2B%20screenshots/8.png)
 
 Kolme erilaista tapaa artikuloida arvoa asiakkaalle. 
 
@@ -311,7 +311,7 @@ Kolme erilaista tapaa artikuloida arvoa asiakkaalle.
 
 Ostajan hyötyjen ymmärtäminen ja arvolupaus ovat avain hinnan maksimointiin. Asiakkaat ovat valmitta maksamaan extraa tarjoomasta joka näyttäytyy ylivertaisena heille tärkeillä ulottovuuksilla.  
 
-![Screenshot 2020-10-06 at 10.04.14.png](:/6c99961035d84dd4a8cb3c08ff84dd33)
+![9](https://github.com/ArttuPee/B2B-marketing/blob/main/B2B%20screenshots/9.png)
 
 Ostajat ovat hintasensitiivimpiä kun kyseessä on tuotteet joille löytyy korvaavutta. He ovat vähemmän sensitiivejä kun tuotteen hinta voidaan siirtää tuotantokerjun seuraavalle osapuolelle. 
 
@@ -338,7 +338,7 @@ Tuottaa tukea sekä ennen ostoa sekä oston jälkeen. Ennen ostoa voi olla erila
 ## Riippuvuudet
 Näihin rooleihin ja vastuisiin liittyy paljon riippuvuuksia. Tiedon kulku eri funktioiden välillä on välttämätöntä. 
 
-![Screenshot 2020-10-06 at 11.24.48.png](:/1a088ef1a600443fb9b13093e7484b6f)
+![10](https://github.com/ArttuPee/B2B-marketing/blob/main/B2B%20screenshots/10.png)
 
 ### Rakenteelliset sidokset
 Sellaisia sidoksia joita organisaatio on tarkoituksella luonut mahdollistaakseen tiedon kulkemisen. Yleensä luodaan omia yksiköitä joiden tarkoituksena on toimia eräänlaisina viestinviejinä. Tavoitteena on mahdollistaa ja luvallistaa yhteistyö, määritellä vaadittu tiedonkulku ja kerätä yhteisten aktiviteettien opit talteen. 
